@@ -1,3 +1,4 @@
 This line is created in order to test SSH connection to GitHub
 This line is created in order to test GPG signing
+All works fine
 
