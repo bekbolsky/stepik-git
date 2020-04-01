@@ -10,7 +10,16 @@
 - [x] 4. Коммит изменений
 - [x] 5. Создание веток
 - [x] 6. Переход между коммитами
-- [ ] 7. `git pull` и `git push`
-- [ ] 8. `git diff`
+- [x] 7. `git pull` и `git push`
+- [x] 8. `git diff`
 
-> *Этот репозиторий создан в образовательных целях*
+<details>
+<summary>Сертификат курса</summary>
+
+[_Сертификат – Основы Git – Stepik_](https://stepik.org/cert/306627)
+
+![Сертификат](https://stepik.org/certificate/5a33d8b6ce2bb23d6d58b0d1101096ca88156e61.png)
+
+</details>
+
+> _Этот репозиторий создан в образовательных целях_
